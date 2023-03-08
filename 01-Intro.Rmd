@@ -1,0 +1,35 @@
+---
+title: "CGR Pre course materials"
+author: "Matthew R. Gemmell"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+favicon: figures/CGR_favicon.png
+description: CGR book for the Introduction to command line bioinformatics workshop
+cover-image: "figures/CGR_strips.png"
+---
+
+```{r, fig.align = 'center',out.width= '60%', echo=FALSE }
+knitr::include_graphics(path = "figures/CGR_large.png", auto_pdf = TRUE)
+```
+
+# Introduction {#intro}
+
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "figures/computer_book.png", auto_pdf = TRUE)
+```
+
+This book contains information for pre course materials you can run through. These are not mandatory but highly recommended if you are unfamiliar or rusty with the topic materials.
+
+There is a chapter for each topic. Each chapter will contain:
+
+- A video presentation to introduce you to the topic and prime you for the book.
+- A link to a book for the topic. This will contain further theory, practice, and exercises. You will need a webVNC link to carry out the practice and exercises.
+
+If you are having any issues please ask for assistance via the main slack channel for the course you will be attending.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

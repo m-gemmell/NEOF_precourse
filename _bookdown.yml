@@ -1,0 +1,5 @@
+book_filename: "CGR Pre course materials"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: FALSE

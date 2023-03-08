@@ -1,0 +1,27 @@
+# Linux
+
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "figures/linux_beginner.png", auto_pdf = TRUE)
+```
+
+## Linux Video presentation
+
+```{r, echo=FALSE, warning=FALSE, }
+library("vembedr")
+embed_url("https://www.youtube.com/watch?v=PJ6rF57cSfM")
+```
+
+[Slides](http://www.cgr.liv.ac.uk/illum/CGRworkshops_2d2a70d27a9db718/Intro_to_Unix/Slides/Introduction%20to%20command%20line%20bioinformatics.pdf)
+
+## Linux Book link
+
+After watching the video please follow the below link and read the book whilst following its instructions.
+
+[__Intro to Unix book__](http://www.cgr.liv.ac.uk/illum/CGRworkshops_2d2a70d27a9db718/Intro_to_Unix)
+
+## Post workshop
+
+If you want to try the tutorial without access to the VNC you will need to download the below zipped directory. This contains the files and will need to be uncompressed. Please note that when it in our environment the paths will be different than those stated in the bookdown.
+
+[Linux files](http://www.cgr.liv.ac.uk/illum/CGRworkshops_2d2a70d27a9db718/downloads/Linux.zip)
+
