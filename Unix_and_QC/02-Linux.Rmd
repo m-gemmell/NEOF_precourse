@@ -1,0 +1,30 @@
+# Linux
+
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "figures/linux_beginner.png", auto_pdf = TRUE)
+```
+
+## Linux Video presentation
+
+<div class="container">
+<iframe src="https://www.youtube.com/embed/ubjvk_iUpoY" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+[__Slides__](https://neof-workshops.github.io/Unix_nxcdf7/Resources/Slides/Intro%20to%20command%20line%20bioinformatics.pdf)
+
+## Linux Book link
+
+After watching the video please follow the below link and read the book whilst following its instructions.
+
+[__Intro to Unix book__](https://neof-workshops.github.io/Unix_nxcdf7/)
+
+You can download the html files of the bookdown below. Ensure you unzip the directory before use.
+
+[__Download zipped bookdown__](https://neof-workshops.github.io/Unix_nxcdf7/Resources/NEOF_Intro_to_unix_bookdown.zip
+
+## Post workshop
+
+If you want to try the tutorial without access to the VNC you will need to download the below zipped directory. This contains the files and will need to be uncompressed. Please note that when it in our environment the paths will be different than those stated in the bookdown.
+
+[__Download files__](https://neof-workshops.github.io/Unix_nxcdf7/Resources/Files/Linux.zip)
