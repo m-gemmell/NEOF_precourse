@@ -124,7 +124,11 @@ After watching the video please follow the below link and read the book whilst f
 
 If you want to try the tutorial without access to the VNC you will need to download the below zipped directory. This contains the files and will need to be uncompressed. Please note that when it in our environment the paths will be different than those stated in the bookdown.
 
-[QC files](https://neof-workshops.github.io/QC_91wlgv/Resources/QC_workshop.zip)
+```{r, eval= FALSE, echo=FALSE}
+#Leave below as cgr link as file is too big for github
+```
+
+[QC files](http://www.cgr.liv.ac.uk/illum/CGRworkshops_2d2a70d27a9db718/downloads/QC_workshop.zip)
 
 <!--chapter:end:03-QC.Rmd-->
 
