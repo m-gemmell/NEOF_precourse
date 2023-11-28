@@ -7,7 +7,7 @@ knitr::include_graphics(path = "figures/linux_beginner.png", auto_pdf = TRUE)
 ## Linux Video presentation
 
 <div class="container">
-<iframe src="https://www.youtube.com/embed/ubjvk_iUpoY" 
+<iframe src="https://www.youtube.com/embed/x6fLv-ewGHQ" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
